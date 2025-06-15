@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  - 🔭 I’m currently working on a C++ project with a drizzle of Go mixed.
  - 🌱 I’m currently learning more about Go and setting up some Kubernetes cluster on the side
  - 🤔 I’m also looking out for a new job
- - ⚡ Fun fact: as I moved to Germany there no fun facts to share
+ - ⚡ Fun fact: the first commercially available computer mouse was introduced by Xerox in 1973
 
 ----
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 |--|--|
 | Build systems | [![Make](https://img.shields.io/badge/GNU_Make-A42E2B?logo=GNU&logoColor=black)](#) [![CMake](https://img.shields.io/badge/CMake-064F8C?logo=CMake&logoColor=white)](#) [![BitBake](https://custom-icon-badges.demolab.com/badge/BitBake-009BDB)](#)  [![buildroot](https://custom-icon-badges.demolab.com/badge/buildroot-edc92f)](#) |
 | CI / CD | [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=Jenkins&logoColor=white)](#) [![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF?logo=githubactions&logoColor=white)](#) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=GitLab&logoColor=white)](#) |
-| Containerization | [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?logo=docker&logoColor=fff)](#) |
+| Containerization | [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?logo=docker&logoColor=fff)](#) [![Docker](https://img.shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&logoColor=white)](#) |
 | Databases | [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)  [![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff)](#) [![Telegraf](https://img.shields.io/badge/Telegraf-ce0e7e)](#) |
 | Deployment | [![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=Ansible&logoColor=white)](#) [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=Terraform&logoColor=white)](#) [![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?logo=OpenTofu&logoColor=black)](#) [![pYinfra](https://img.shields.io/badge/pyInfra-54AC63)](#) |
 | Frameworks |  [![Qt](https://img.shields.io/badge/Qt-41CD52?logo=Qt&logoColor=black)](#) |
