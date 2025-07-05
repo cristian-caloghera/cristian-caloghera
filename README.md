@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- - 🔭 I’m currently working on a C++ project with a drizzle of Go mixed.
  - 🌱 I’m currently learning more about Go and setting up some Kubernetes cluster on the side
  - 🤔 I’m also looking out for a new job
  - ⚡ Fun fact: the first commercially available computer mouse was introduced by Xerox in 1973
